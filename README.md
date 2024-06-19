@@ -19,3 +19,6 @@ Se ha implementado una solución que aborda los problemas identificados en el di
 - Se descargó los icono de FontAwesome en formato SVG.
 - Se aplicó el atributo async y defer a los scripts para mejorar la carga de la página.
 - Se mejoró el contraste del texto con respeto al fondo, [se utilizó la herramienta de Adobe](https://color.adobe.com/es/create/color-contrast-analyzer)
+
+Puede consultar el informe completo de las mejoras realizadas en el siguiente enlace
+> [Informe de solución implementada](https://pagespeed.web.dev/analysis/https-juancarlosmoscoso-github-io-Reto1-portafolio-index-html/m553nwb6kr)
