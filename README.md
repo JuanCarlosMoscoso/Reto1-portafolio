@@ -18,3 +18,4 @@ Se ha implementado una solución que aborda los problemas identificados en el di
 - Se eliminó contenido innecesario.
 - Se descargó los icono de FontAwesome en formato SVG.
 - Se aplicó el atributo async y defer a los scripts para mejorar la carga de la página.
+- Se mejoró el contraste del texto con respeto al fondo, [se utilizó la herramienta de Adobe](https://color.adobe.com/es/create/color-contrast-analyzer)
